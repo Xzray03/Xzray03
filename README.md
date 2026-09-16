@@ -56,28 +56,32 @@ Writing **C** and **Assembly** because abstraction is for those afraid of realit
 
 ## ▓▒░ Featured Projects ░▒▓
 
-<a href="https://github.com/Xzray03/XzalgoChain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xzray03&repo=XzalgoChain&theme=dark&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/Xzray03/xzrahttp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xzray03&repo=xzrahttp&theme=dark&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/Xzray03/zclean">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xzray03&repo=zclean&theme=dark&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a" />
-</a>
+<div>
+  <a href="https://github.com/Xzray03/XzalgoChain">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Xzray03&repo=XzalgoChain&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a" />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/Xzray03/xzrahttp">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Xzray03&repo=xzrahttp&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a" />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/Xzray03/zclean">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Xzray03&repo=zclean&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a" />
+  </a>
+</div>
 
 <br/>
 
 ## ▓▒░ Stats ░▒▓
 
-<p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Xzray03&show_icons=true&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzray03&layout=compact&bg_color=1a1d24&title_color=a8b2c1&text_color=8b95a5&border_color=2a2f3a&langs_count=6" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xzray03&background=1a1d24&border=2a2f3a&stroke=6b7a8f&ring=a8b2c1&fire=8b95a5&currStreakLabel=a8b2c1&sideLabels=8b95a5&dates=6b7a8f" />
-</p>
+<div>
+  <img height="165em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Xzray03&show_icons=true&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Xzray03&layout=compact&bg_color=1a1d24&title_color=a8b2c1&text_color=8b95a5&border_color=2a2f3a&langs_count=6" />
+</div>
 
 <br/>
 
@@ -88,13 +92,11 @@ Writing **C** and **Assembly** because abstraction is for those afraid of realit
 └──╼ $ mail -s "Hello" Xzray@proton.me
 ```
 
-📮 **Xzray@proton.me**
-
-<p>
+<div align="center">
   <a href="mailto:Xzray@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-1a1d24?style=for-the-badge&logo=protonmail&logoColor=a8b2c1" />
   </a>
-</p> 
+</div>
 
 <br/>
 
@@ -106,36 +108,61 @@ Writing **C** and **Assembly** because abstraction is for those afraid of realit
 
 <td width="22%" valign="top" align="center">
 
-<br/>
+<div align="center">
 
-<code>
 世<br/>
+&nbsp;<br/>
 界<br/>
+&nbsp;<br/>
 で<br/>
+&nbsp;<br/>
 一<br/>
+&nbsp;<br/>
 番<br/>
+&nbsp;<br/>
 幸<br/>
+&nbsp;<br/>
 せ<br/>
+&nbsp;<br/>
 な<br/>
+&nbsp;<br/>
 人<br/>
+&nbsp;<br/>
 は<br/>
+&nbsp;<br/>
 同<br/>
+&nbsp;<br/>
 時<br/>
+&nbsp;<br/>
 に<br/>
+&nbsp;<br/>
 世<br/>
+&nbsp;<br/>
 界<br/>
+&nbsp;<br/>
 で<br/>
+&nbsp;<br/>
 一<br/>
+&nbsp;<br/>
 番<br/>
+&nbsp;<br/>
 悲<br/>
+&nbsp;<br/>
 し<br/>
+&nbsp;<br/>
 い<br/>
+&nbsp;<br/>
 人<br/>
+&nbsp;<br/>
 で<br/>
+&nbsp;<br/>
 も<br/>
+&nbsp;<br/>
 あ<br/>
+&nbsp;<br/>
 る
-</code>
+
+</div>
 
 </td>
 
@@ -150,7 +177,7 @@ Writing **C** and **Assembly** because abstraction is for those afraid of realit
 
 <br/><br/>
 
-<i>▓▒░ "The world had already ended. But we're still walking." ░▒▓</i>
+<i> "The world had already ended. But we're still walking." </i>
 
 <br/><br/>
 
