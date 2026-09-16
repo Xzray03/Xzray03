@@ -5,7 +5,13 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co.com/39zNh3bF/fe7dcaea-8ac8-4feb-a32f-75143eeb0759.webp" width="886" alt="banner"/>
+<table align="center" style="border: 2px solid #6b7a8f; padding: 8px; background-color: #1a1d24;">
+  <tr>
+    <td>
+      <img src="https://i.ibb.co.com/39zNh3bF/fe7dcaea-8ac8-4feb-a32f-75143eeb0759.webp" width="886" alt="banner"/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -15,14 +21,18 @@
 
 <p><i>▓▒░ low-level wanderer in the world ends ░▒▓</i></p>
 
-<p>
-  <img src="https://img.shields.io/badge/C-1a1d24?style=for-the-badge&logo=c&logoColor=a8b2c1" />
-  <img src="https://img.shields.io/badge/Assembly-2a2f3a?style=for-the-badge&logo=assemblyscript&logoColor=a8b2c1" />
-  <img src="https://img.shields.io/badge/Linux-2a2f3a?style=for-the-badge&logo=linux&logoColor=a8b2c1" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1a1d24?style=for-the-badge&logo=archlinux&logoColor=6b7a8f" />
-  <img src="https://img.shields.io/badge/Zsh-1a1d24?style=for-the-badge&logo=gnubash&logoColor=6b7a8f" />
-  <img src="https://img.shields.io/badge/KISS-2a2f3a?style=for-the-badge&labelColor=1a1d24&color=2a2f3a" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/C-1a1d24?style=for-the-badge&logo=c&logoColor=a8b2c1" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Assembly-2a2f3a?style=for-the-badge&logo=assemblyscript&logoColor=a8b2c1" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-2a2f3a?style=for-the-badge&logo=linux&logoColor=a8b2c1" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Arch_Linux-1a1d24?style=for-the-badge&logo=archlinux&logoColor=6b7a8f" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Zsh-1a1d24?style=for-the-badge&logo=gnubash&logoColor=6b7a8f" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/KISS-2a2f3a?style=for-the-badge&labelColor=1a1d24&color=2a2f3a" /></td>
+  </tr>
+</table>
 
 </div>
 
