@@ -82,6 +82,12 @@ Writing **C** and **Assembly** because abstraction is for those afraid of realit
   </a>
 </div>
 
+<div>
+  <a href="https://github.com/Xzray03/archfetch">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Xzray03&repo=archfetch&bg_color=1a1d24&title_color=a8b2c1&icon_color=6b7a8f&text_color=8b95a5&border_color=2a2f3a" />
+  </a>
+</div>
+
 <br/>
 
 ## ▓▒░ Stats ░▒▓
